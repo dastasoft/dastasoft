@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Daniel 👋
 
 <!--
 **dastasoft/dastasoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+.
+Currently focused on Next.js and React Native. Always interested in new technologies and how they work. 
+
+Effort, discipline, motivation, creativity, encouraging a good team environment and communication are my priorities.
+
+I love learning, teaching, Japanese culture and rhythm games, self-proclaimed expert curry and ramen taster.
+
+I'm currently working as a Developer Advocate check out my full [profile](https://dastasoft.netlify.app/).
