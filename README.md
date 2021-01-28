@@ -1,5 +1,7 @@
 ### Hi, I'm Daniel 👋
 
-Currently focused on [Next.js](https://nextjs.org/) and [React Native](http://reactnative.dev/). Always interested in new technologies and how they work. Effort, discipline, motivation, creativity, encouraging a good team environment and communication are my priorities.
+I've been making websites, applications, games and learning the ins and outs of technology since I can remember. I love learning, teaching what I have learned and approaching projects from an agile vision and from the user's point of view maintaining the quality of the code following the best practices.
 
-I love learning, teaching, Japanese culture and rhythm games. I'm currently working as a Full Stack Developer, check out my full [profile](https://dastasoft.netlify.app/).
+Currently, both professionally and personally, I keep myself busy with React.js, Node.js, React Native and cloud technology to offer high performance, scalable and innovative solutions.
+
+I'm currently working as a Full Stack Developer, check out my full [profile](https://dastasoft.netlify.app/).
