@@ -4,4 +4,4 @@ I've been making websites, applications, games and learning the ins and outs of 
 
 Currently, both professionally and personally, I keep myself busy with React.js, Node.js, React Native and cloud technology to offer high performance, scalable and innovative solutions.
 
-I'm currently working as a Full Stack Developer, check out my full [profile](https://dastasoft.netlify.app/).
+I'm currently working as a Full Stack Developer, check out my full [profile](https://portfolio.dastasoft.com/).
