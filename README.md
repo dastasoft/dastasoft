@@ -23,6 +23,7 @@ I've been making websites, applications, games and learning the ins and outs of 
 
 #### 📦 Languages, Frameworks and Tools:
 
+<div style="display: flex;">
 <img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
 <img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
@@ -48,6 +49,7 @@ I've been making websites, applications, games and learning the ins and outs of 
 <img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png">
 
 <img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png">
+</div>
 
 <br />
 <br />
