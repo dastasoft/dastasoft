@@ -3,7 +3,7 @@
 <p align="center">
     <a href="https://dastasoft.com/">Portfolio</a> •
     <a href="https://blog.dastasoft.com/">Blog</a> •
-    <a href="https://www.linkedin.com/in/dastasoft/">Linkedin</a> •
+    <a href="https://www.linkedin.com/in/dastasoft/">LinkedIn</a> •
     <a href="https://dev.to/dastasoft">dev.to</a> •
     <a href="https://discord.gg">Discord: dastasoft#3884</a>
 </p>
