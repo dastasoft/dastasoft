@@ -54,7 +54,4 @@ I've been making websites, applications, games and learning the ins and outs of 
 <br />
 <br />
 
-<details>
-  <summary>📊 <b><i>GitHub Stats</i></b></summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=dastasoft&show_icons=true&theme=tokyonight&count_private=true" alt="dastasoft GitHub Stats" />
-</details>
+![dastasoft GitHub Stats](https://github-readme-stats.vercel.app/api?username=dastasoft&show_icons=true&theme=tokyonight&count_private=true)
