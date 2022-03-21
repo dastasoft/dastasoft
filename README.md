@@ -20,10 +20,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Intro to MongoDB and Mongoose - How Every Web Developer Can Become FullStack With Node.js](https://dev.to/dastasoft/intro-to-mongodb-and-mongoose-how-every-web-developer-can-become-fullstack-with-nodejs-4kpe)
-- [How to get better and easier state management with Redux Toolkit](https://dev.to/dastasoft/how-to-get-better-and-easier-state-management-with-redux-toolkit-4o5)
-- [How Every Web Developer Can Become FullStack With Node.js](https://dev.to/dastasoft/how-every-web-developer-can-become-fullstack-with-node-js-11fc)
-- [Explain Quantum Computers like I&#39;m five](https://dev.to/dastasoft/explain-quantum-computers-like-i-m-five-460c)
+- [MongoDB and Mongoose - How Every Web Developer Can Become FullStack With Node.js](https://blog.dastasoft.com/posts/mongodb-mongoose-how-every-web-developer-can-become-fullstack-with-nodejs)
+- [How to get better and easier state management with Redux Toolkit](https://blog.dastasoft.com/posts/how-to-get-better-easier-state-management-redux-toolkit)
+- [How Every Web Developer Can Become FullStack With Node.js](https://blog.dastasoft.com/posts/how-every-web-developer-can-become-fullstack-with-nodejs)
+- [Here is what every React Developer needs to know about TypeScript - Part 1](https://blog.dastasoft.com/posts/heres-what-every-react-developer-needs-to-know-about-typescript)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
