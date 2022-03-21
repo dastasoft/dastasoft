@@ -20,6 +20,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intro to MongoDB and Mongoose - How Every Web Developer Can Become FullStack With Node.js](https://dev.to/dastasoft/intro-to-mongodb-and-mongoose-how-every-web-developer-can-become-fullstack-with-nodejs-4kpe)
+- [How to get better and easier state management with Redux Toolkit](https://dev.to/dastasoft/how-to-get-better-and-easier-state-management-with-redux-toolkit-4o5)
+- [How Every Web Developer Can Become FullStack With Node.js](https://dev.to/dastasoft/how-every-web-developer-can-become-fullstack-with-node-js-11fc)
+- [Explain Quantum Computers like I&#39;m five](https://dev.to/dastasoft/explain-quantum-computers-like-i-m-five-460c)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
