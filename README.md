@@ -36,7 +36,7 @@
 <br />
 <br />
 
-### ✍️ Blog Posts :
+### ✍️ Latest Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
 - [Here is what every React Developer needs to know about TypeScript - Part 2](https://blog.dastasoft.com/posts/heres-what-every-react-developer-needs-to-know-about-typescript_part_2)
@@ -82,5 +82,3 @@
 <br />
 
 <p> <img src="https://komarev.com/ghpvc/?username=dastasoft&style=flat-square&color=blue" alt="dastasoft profile count"/></p>
-<br />
-<br />
