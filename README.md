@@ -39,10 +39,10 @@
 ### ✍️ Latest Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Better React Performance - useCallback vs useMemo](https://blog.dastasoft.com/posts/use-callback-vs-use-memo)
 - [Here is what every React Developer needs to know about TypeScript - Part 2](https://blog.dastasoft.com/posts/heres-what-every-react-developer-needs-to-know-about-typescript_part_2)
 - [How to get cool animations in your React projects](https://blog.dastasoft.com/posts/framer-motion)
 - [MongoDB and Mongoose - How Every Web Developer Can Become FullStack With Node.js](https://blog.dastasoft.com/posts/mongodb-mongoose-how-every-web-developer-can-become-fullstack-with-nodejs)
-- [How to get better and easier state management with Redux Toolkit](https://blog.dastasoft.com/posts/how-to-get-better-easier-state-management-redux-toolkit)
 <!-- BLOG-POST-LIST:END -->
 <br />
 <br />
