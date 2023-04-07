@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Hi 👋, I'm Daniel</h1>
 <h2>I'm a Full Stack Developer specialized in React and Node from Spain, currently living in Tokyo.</h2>
-<h3> I love learning and teaching technology on my blog and learning Japanese よろしくおねがいします。</h3>
+<h3>As a Full Stack Developer, I specialize in React and Node. I'm passionate about teaching tech on my blog and learning new things, such as the Japanese language.</h3>
 <br />
 
 <div>
