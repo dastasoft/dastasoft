@@ -1,7 +1,6 @@
 <div align="center">
 <h1>Hi 👋, I'm Daniel</h1>
-<h2>I'm a Full Stack Developer specialized in React and Node from Spain, currently living in Tokyo.</h2>
-<h3>As a Full Stack Developer, I specialize in React and Node. I'm passionate about teaching tech on my blog and learning new things, such as the Japanese language.</h3>
+<h2>I'm a Full Stack Developer passionate about React, Node, and learning Japanese in Tokyo 🚀🇯🇵 Tech blogger.</h2>
 <br />
 
 <div>
@@ -21,15 +20,15 @@
 
 ### 👨🏻‍💻 &nbsp;About Me:
 
-- 🔭 I’m currently working as **Senior Software Engineer with React, React Native and NodeJS**
+- 🔭 I’m currently working as **Tech Lead** with **React, React Native and NodeJS**
 
-- 🌱 I’m currently learning **Astro, Redis, Postgresql, Figma and Godot**
+- 🌱 I’m currently learning **Astro, Redis, Postgresql, Figma and Japanese**
 
 - 👨‍💻 All of my projects are available at [dastasoft.com](https://www.dastasoft.com/)
 
 - 📝 I regularly write articles on [dastasoft Blog](https://blog.dastasoft.com/) and [FreeCodeCamp](https://www.freecodecamp.org/news/author/daniel-asta/)
 
-- 💬 Ask me about **javascript, typescript, react, react-native, node, godot**
+- 💬 Ask me about **javascript, typescript, react, react-native, node**
 
 - 🌐 I can speak in **Spanish, Catalan, English and Japanese**
 
