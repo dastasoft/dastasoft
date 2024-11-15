@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available at [dastasoft.com](https://www.dastasoft.com/)
 
-- 📝 I regularly write articles on [dastasoft Blog](https://blog.dastasoft.com/) and [FreeCodeCamp](https://www.freecodecamp.org/news/author/daniel-asta/)
+- 📝 I regularly write articles on [dastasoft Blog](https://blog.dastasoft.com/) and [FreeCodeCamp](https://www.freecodecamp.org/news/typescript-for-react-developers/)
 
 - 💬 Ask me about **javascript, typescript, react, react-native, node**
 
