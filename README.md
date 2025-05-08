@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi 👋, I'm Daniel</h1>
-<h2>I'm a Full Stack Developer passionate about React, Node, and learning Japanese in Tokyo 🚀🇯🇵 Tech blogger.</h2>
+<h2>I'm a Full Stack Developer passionate about React, Node, and learning Japanese.</h2>
 <br />
 
 <div>
@@ -10,9 +10,6 @@
   <a href="mailto:dastasoft@protonmail.com">
     <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=email&logoColor=white" alt="email Badge"/>
   </a>&nbsp;
-  <a href="https://twitter.com/dastasoft">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 </div>
 <br />
